@@ -6,4 +6,4 @@ Aby uzywac nalezy:
 * Pobierz materialy ze strony xyz
 * Uruchom plik START
 
-Copyright Tester Team
+Copyright by Tester Team
